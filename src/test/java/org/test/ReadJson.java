@@ -33,6 +33,7 @@ public class ReadJson {
 		   
 		   Object lName = datas.get("last_name");
 		   System.out.println(lName);
+		neri
 		   
 		   Object avatar = datas.get("avatar");
 		   System.out.println(avatar);
